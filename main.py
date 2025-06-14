@@ -70,7 +70,7 @@ BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="📞 Contact"
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="🖤 OWNER", url="@GUL5H4N"),
+            InlineKeyboardButton(text="🖤 G", url="https://tinypic.host/images/2025/06/14/9bf7bb99419e36f279fcd6921609bc7a.jpg"),
             InlineKeyboardButton(text="🛠️ Repo", url="https://github.com/hindugulshansingh/Gulshan-TXT-Uploader"),
         ],
     ]
